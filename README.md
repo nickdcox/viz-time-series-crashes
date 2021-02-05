@@ -13,3 +13,5 @@
 
 
 From the command line, run *streamlit run map.py* to view the interactive Chicago crash fatality map in your browser.
+
+As GitHub does not natively display Folium maps, please click this link to see all maps rendered: https://nbviewer.jupyter.org/github/nickdcox/viz-time-series-crashes/blob/main/Chicago%20Traffic%20Crashes.ipynb
